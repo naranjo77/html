@@ -1,0 +1,25 @@
+body {
+    background-color: darkslateblue;
+}
+
+ h1{
+    color:firebrick
+} 
+
+div {
+    background-color: rgb(42, 229, 229);
+    border-style: solid;
+    border-color: blue;
+    border-radius: 6px;
+    border-width: 2px;
+    
+
+}
+
+.every-even li:nth-child(even) {
+    background-color: blueviolet;
+}
+
+.every-even:hover {
+    background-color: blueviolet;
+}

@@ -1,0 +1,26 @@
+body {
+    background-color: darkslateblue;
+}
+
+h1 {
+    color:firebrick
+}
+h3 {
+    color:cyan
+}
+div {
+    background-color: rgb(42, 229, 229);
+    border-style: solid;
+    border-color: blue;
+    border-radius: 6px;
+    border-width: 2px;
+    
+
+}
+
+.shadow-text {
+    text-shadow:rgb(129, 74, 147) 1px 1px;
+}
+#large-paragraph {
+    font-size: 25px;
+}

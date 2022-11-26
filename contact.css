@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid yellowgreen;
+}
+
+body {
+    background-color: rgb(159, 149, 225);
+}
+h1{
+    color:rgb(115, 109, 236)
+}
+ 
+
+h2 {
+    color:rgb(115, 109, 236)
+}
